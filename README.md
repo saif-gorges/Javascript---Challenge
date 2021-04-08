@@ -18,3 +18,5 @@ This purpose of this project was to write code that creates a dynamic table whic
 - Used a date form in the HTML document and wrote JavaScript code that listens for events and searches through the date/time column to find rows that match user input.
 
 - 'No Data Found' message will appear when there is no data found for the search criteria
+
+![image](https://user-images.githubusercontent.com/69221324/114092830-568d3100-9888-11eb-8055-850d402ed6c0.png)
