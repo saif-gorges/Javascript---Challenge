@@ -1,4 +1,4 @@
-# Web-scraping Challenge
+# UFO Sightings Webpage
 
 ## Table of Contents
   * [Introduction](#introduction)
